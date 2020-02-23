@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseMonitoramentoSites": "Data Source=localhost,11433;Initial Catalog=BaseMonitoramentoSites;User Id=sa;Password=DockerSql2017!;MultipleActiveResultSets=true;",
+    "Sites": "https://github.com|https://stackoverflow.com|https://siteinvalido.com.br",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
